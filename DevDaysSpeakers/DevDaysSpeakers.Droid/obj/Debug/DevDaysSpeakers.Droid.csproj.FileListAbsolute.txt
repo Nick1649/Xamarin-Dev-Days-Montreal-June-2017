@@ -1,0 +1,4 @@
+/Users/nicksabelli1694/Developer/Microsoft/dev-days-labs/HandsOnLab/Start/DevDaysSpeakers/DevDaysSpeakers.Droid/obj/Debug/DevDaysSpeakers.Droid.csprojResolveAssemblyReference.cache
+/Users/nicksabelli1694/Developer/Microsoft/dev-days-labs/HandsOnLab/Start/DevDaysSpeakers/DevDaysSpeakers.Droid/obj/Debug/DevDaysSpeakers.Droid.csproj.CoreCompileInputs.cache
+/Users/nicksabelli1694/Developer/Microsoft/dev-days-labs/HandsOnLab/Start/DevDaysSpeakers/DevDaysSpeakers.Droid/obj/Debug/DevDaysSpeakers.Droid.View.DetailsPage.xaml.g.cs
+/Users/nicksabelli1694/Developer/Microsoft/dev-days-labs/HandsOnLab/Start/DevDaysSpeakers/DevDaysSpeakers.Droid/obj/Debug/DevDaysSpeakers.Droid.View.SpeakersPage.xaml.g.cs
